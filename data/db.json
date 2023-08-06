@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "datetime": "July 01, 2021 11:17:36",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Posd",
+      "datetime": "Aug 06, 2023 9:47:10 AM",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit"
+    },
+    {
+      "id": 4,
+      "title": "axios",
+      "datetime": "Aug 05, 2023 4:21:11 AM",
+      "body": "s"
+    }
+  ]
+}
